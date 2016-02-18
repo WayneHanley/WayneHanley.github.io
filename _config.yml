@@ -1,6 +1,21 @@
-name: Wayne Hanley, person
-markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+# Site settings
+title: WayneHanley
+header-img: img/home-bg.jpg
+email: wayney@gmail.com
+copyright_name: Wayne Hanley
+description: "Write your site description here. It will be used as your sites meta description as well!"
+baseurl: ""
+url: "http://waynehanley.com"
+twitter_username: WayneHanley
+github_username:  WayneHanley
+facebook_username:  WayneHanley
+email_username:  wayney@gmail.com
 
-gems:
-  - jekyll-sitemap
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
