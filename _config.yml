@@ -8,8 +8,10 @@ baseurl: ""
 url: "http://waynehanley.com"
 twitter_username: WayneHanley
 github_username:  WayneHanley
-facebook_username:  WayneHanley
+youtube_username: byteyp
 email_username:  wayney@gmail.com
+facebook_username:  WayneHanley
+
 
 # Build settings
 markdown: kramdown
