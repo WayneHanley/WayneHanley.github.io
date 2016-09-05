@@ -1,6 +1,6 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: WayneHANLEY
+description: doing stuff with things daily
 url: http://taylantatli.me/Halve
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -31,13 +31,13 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            WayneHanley
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+github:             WayneHanley
+#stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+linkedin:           WayneHanley
 #xing:              username
-#instagram:          username
+instagram:         byteyp
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
@@ -52,7 +52,7 @@ stackoverflow:     123456/username   from a "http://stackoverflow.com/users/1234
 #keybase:           username
 #xmpp:              username@server.com
 #hackernews:        username
-behance:           username
+#behance:           username
 
 # Gems
 gems:
