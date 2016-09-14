@@ -1,6 +1,10 @@
 _site/
+<<<<<<< HEAD
  /.sass-cache/
  /.jekyll-metadata
  
  *.DS_Store
 /.sass-cache
+=======
+node_modules/
+>>>>>>> f0bd316a986e1791cd97cc8e78b9c80f13021676
