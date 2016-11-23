@@ -1,59 +1,64 @@
 - title: CW Optimus Prime repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10153914371982755.1073741830.697137754&type=3
-  image: WayneHanley.github.io/images/cw-op-rp-2016.jpg
+  image: WayneHanley.github.io/images/project-cw-op-rp.jpg
   completed: true
 
 - title: WFC Sunstreaker (Jazz repaint)
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10153916220527755.1073741832.697137754&type=3
-  image: http://WayneHanley.github.io/images/Wayne-Logo-V3.png
+  image: WayneHanley.github.io/images/project-wfc-sunstreaker-repaint.jpg
   completed: true
 
 - title: Marvel select Red Hulk repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154124300322755.1073741836.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/Ramme/master/assets/img/screenshot-post.png
+  image: WayneHanley.github.io/images/project-red-hulk-rp.jpg
   completed: true
 
 - title: Marvel select Hulk repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154065524917755.1073741835.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/Daisy-Pelican-Theme/master/Preview-1.png
+  image: WayneHanley.github.io/images/project-hulk-rp.jpg
   completed: true
 
 - title: TMNT Shredder repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10153916213667755.1073741831.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/Block-Icon-Theme/master/Preview.png
+  image: WayneHanley.github.io/images/project-tmnt-shredder-rp.jpg
   completed: true
 
 - title: Marvel Sandman repaint and base
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154282389947755.1073741837.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-sandman-rp.jpg
   completed: true
  
 - title: Legends BAF Hulk Buster repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154349776162755.1073741841.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-hulk-buster-baf-rp.jpg
   completed: false
 
 - title: Marvel Venom conversion and base
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154291406452755.1073741838.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-venom-rebase.jpg
   completed: false
 
 - title: WFC Sideswipe repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154349776162755.1073741841.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-foc-sideswipe-rp.jpg
   completed: false
 
 - title: Dr Who custom base and repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154385616177755.1073741842.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-drwho-custom.jpg
   completed: false
 
 - title: TMNT Spinter conversion and repaint
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154470240822755.1073741846.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-tmnt-splinter-rp.png
   completed: false
 
 - title: WFC Vector Sigma custom build
   url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154404843797755.1073741843.697137754&type=3
-  image: https://raw.githubusercontent.com/TaylanTatli/StartPage/master/preview.png
+  image: WayneHanley.github.io/images/project-wfc-vs-build.jpg
+  completed: false
+
+- title: WFC Grimlock repaint
+  url: https://www.facebook.com/wayne.hanley/media_set?set=a.10154404843797755.1073741843.697137754&type=3
+  image: WayneHanley.github.io/images/project-foc-grimlock-rp.jpg
   completed: false
