@@ -564,7 +564,7 @@ canvas {
     display: block;
   }
   a:not(.btn):not(.pagination_pager) {
-    color: #399f62;
+    color: $purple;
     border-bottom: 1px dotted $purple;
   }
   ul,
